@@ -730,6 +730,7 @@ height: 70px;
 
 .checkbox {
   display: flex;
+  justify-content: center;
   flex-direction: row;
   margin-bottom: 30px;
   gap: 8px;
